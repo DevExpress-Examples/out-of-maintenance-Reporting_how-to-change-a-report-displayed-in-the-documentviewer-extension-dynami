@@ -1,0 +1,15 @@
+@model E5020.Models.ReportModel
+@Html.DevExpress().CallbackPanel(settings => {
+    settings.Name = "ReportCallbackPanel";
+    settings.CallbackRouteValues = new {
+        Controller = "Home",
+        Action = "ReportCallbackPanelPartial",
+        ReportName = Model.ReportName
+    };
+    settings.Width = System.Web.UI.WebControls.Unit.Percentage(100);
+    settings.Height = 800;
+
+    settings.SetContent(() => {
+        Html.RenderAction("DocumentViewerPartial", Model);
+    });
+}).GetHtml()
