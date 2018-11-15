@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/E5020/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/E5020/Controllers/HomeController.vb))
+* [ReportModel.cs](./CS/E5020/Models/ReportModel.cs) (VB: [ReportModel.vb](./VB/E5020/Models/ReportModel.vb))
+* [_DocumentViewerPartial.cshtml](./CS/E5020/Views/Home/_DocumentViewerPartial.cshtml)
+* [_ReportCallbackPanelPartial.cshtml](./CS/E5020/Views/Home/_ReportCallbackPanelPartial.cshtml)
+* **[Index.cshtml](./CS/E5020/Views/Home/Index.cshtml)**
+<!-- default file list end -->
 # How to change a report displayed in the DocumentViewer extension dynamically
 
 
