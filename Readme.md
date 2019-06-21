@@ -8,6 +8,9 @@
 * **[Index.cshtml](./CS/E5020/Views/Home/Index.cshtml)**
 <!-- default file list end -->
 # How to change a report displayed in the DocumentViewer extension dynamically
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5020)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how you can dynamically change a report displayed by the DocumentViewer extension.<br />
