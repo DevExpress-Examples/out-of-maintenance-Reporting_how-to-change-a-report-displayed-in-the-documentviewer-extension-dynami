@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to change a report displayed in the DocumentViewer extension dynamically
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5020)**
+**[[Run Online]](https://codecentral.devexpress.com/e5020/)**
 <!-- run online end -->
 
 
